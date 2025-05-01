@@ -1,0 +1,10 @@
+/Users/rickychen/Desktop/Repos/Clash_Royale_Bot/CRBot/170X250ColoredGame10Data.csv.npy filter=lfs diff=lfs merge=lfs -text
+/Users/rickychen/Desktop/Repos/Clash_Royale_Bot/CRBot/170X250ColoredGame11Data.csv.npy filter=lfs diff=lfs merge=lfs -text
+/Users/rickychen/Desktop/Repos/Clash_Royale_Bot/CRBot/170X250ColoredGame12Data.csv.npy filter=lfs diff=lfs merge=lfs -text
+/Users/rickychen/Desktop/Repos/Clash_Royale_Bot/CRBot/170X250ColoredGame13Data.csv.npy filter=lfs diff=lfs merge=lfs -text
+/Users/rickychen/Desktop/Repos/Clash_Royale_Bot/CRBot/CNN_location_picker_model_state.pt filter=lfs diff=lfs merge=lfs -text
+/Users/rickychen/Desktop/Repos/Clash_Royale_Bot/CRBot/CNN_model_state.pt filter=lfs diff=lfs merge=lfs -text
+/Users/rickychen/Desktop/Repos/Clash_Royale_Bot/CRBot/X_im_L.csv.npy filter=lfs diff=lfs merge=lfs -text
+/Users/rickychen/Desktop/Repos/Clash_Royale_Bot/CRBot/X_im_L.npy filter=lfs diff=lfs merge=lfs -text
+/Users/rickychen/Desktop/Repos/Clash_Royale_Bot/CRBot/X_im.csv.npy filter=lfs diff=lfs merge=lfs -text
+/Users/rickychen/Desktop/Repos/Clash_Royale_Bot/CRBot/X_im.npy filter=lfs diff=lfs merge=lfs -text
